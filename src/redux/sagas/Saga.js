@@ -8,7 +8,7 @@ function* fetchHotelsSaga(action) {
 
     if (response.status === 200) {
       yield put(fetchHotelsSuccess(response.data));
-      // Используйте переданный navigate
+ 
       action.payload.navigate('/hotels');
     }
   } catch (error) {
