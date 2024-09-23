@@ -929,6 +929,14 @@
       "checkOut": "2024-09-26",
       "adults": "2",
       "children": "1"
+    },
+    {
+      "id": "9fe8",
+      "destination": "Miami",
+      "checkIn": "2024-09-24",
+      "checkOut": "2024-09-26",
+      "adults": "1",
+      "children": "1"
     }
   ]
 }
