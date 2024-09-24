@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/header/Header.js';
-import Main from './components/main/Main';
-import About from './components/about/About.js';
-import Hotels from './components/hotels/Hotels.js';
+import Header from './components/Header/Header.js';
+import Main from './components/Main/Main.js';
+import About from './components/About/About.js';
+import Hotels from './components/Hotels/Hotels.js';
 
 
 const App = () => {

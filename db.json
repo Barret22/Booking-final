@@ -937,6 +937,46 @@
       "checkOut": "2024-09-26",
       "adults": "1",
       "children": "1"
+    },
+    {
+      "id": "27b3",
+      "destination": "Boston",
+      "checkIn": "2024-09-24",
+      "checkOut": "2024-09-26",
+      "adults": "1",
+      "children": "1"
+    },
+    {
+      "id": "44f2",
+      "destination": "Boston",
+      "checkIn": "2024-09-02",
+      "checkOut": "2024-09-19",
+      "adults": "1",
+      "children": "1"
+    },
+    {
+      "id": "910d",
+      "destination": "Boston",
+      "checkIn": "2024-09-25",
+      "checkOut": "2024-09-27",
+      "adults": "1",
+      "children": "1"
+    },
+    {
+      "id": "d678",
+      "destination": "Haines City",
+      "checkIn": "2024-09-26",
+      "checkOut": "2024-09-28",
+      "adults": "1",
+      "children": "1"
+    },
+    {
+      "id": "6dc4",
+      "destination": "Miami",
+      "checkIn": "2024-09-26",
+      "checkOut": "2024-09-28",
+      "adults": "1",
+      "children": "1"
     }
   ]
 }
